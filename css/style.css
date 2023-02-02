@@ -173,7 +173,7 @@ header .navbar a:hover{
 
 /*-----------------------Home responsiveness-------------------------*/
 
-@media screen and (max-width:350px) {
+@media screen and (max-width:420px) {
   .home .content h3{
     font-size: 3rem;
     line-height: 5rem;
